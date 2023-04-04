@@ -6,6 +6,7 @@
 ---
 
 ![profile count](https://komarev.com/ghpvc/?username=RajbeerRajak&color=red)&nbsp;
+[![GitHub RajbeerRajak](https://img.shields.io/github/followers/RajbeerRajak?label=follow&style=social)](https://github.com/RajbeerRajak)&nbsp;
 
 ### 👨🏻‍💻 About Me
 
