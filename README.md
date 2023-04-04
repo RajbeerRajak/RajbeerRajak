@@ -5,6 +5,8 @@
 
 ---
 
+![profile count](https://komarev.com/ghpvc/?username=RajbeerRajak&color=red)&nbsp;
+
 ### 👨🏻‍💻 About Me
 
 - 💡 Hello everyone,I'm currently pursuing B.E in Computer Engineering. Love to code, exploring Web technology these days.I enjoy collaborating with people on works of similar Interest.
